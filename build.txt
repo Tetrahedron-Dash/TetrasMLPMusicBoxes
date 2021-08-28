@@ -1,0 +1,4 @@
+displayName = [i/s1:562][i/s1:562]Tetra's MLP Music Boxes[i/s1:562][i/s1:562]
+author = Tetrahedron Dash
+version = 1.0
+homepage = https://tetrahedrons-terraria-mods.fandom.com/wiki/Tetra%27s_MLP_Music_Boxes

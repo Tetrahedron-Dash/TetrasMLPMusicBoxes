@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "66Bpb2Zvcr9EFAn4+VdP1039FgnTNrsD1AbKS/cF6i9Ye06wXq1sE8hiBNQqnRZTH/B9TnI/Nsr6g8R0tXhQ9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\MLPMusicBoxes\\MLPMusicBoxes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
